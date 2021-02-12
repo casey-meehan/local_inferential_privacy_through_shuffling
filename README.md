@@ -1,2 +1,3 @@
 # local_inferential_privacy_through_shuffling
-under review 
+Paper under review 
+More traditional repo containing core code for experiments in paper. 
